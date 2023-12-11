@@ -3,18 +3,17 @@ import { createStore } from "vuex";
 const store = createStore({
     state: {
         posts: [
-
             {
                 "userId": 1,
-                "id": 4,
-                "title": "eum et est occaecati",
-                "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+                "id": 1,
+                "title": "Nota 1",
+                "body": "Nota para teste 1."
             },
             {
                 "userId": 1,
-                "id": 5,
-                "title": "nesciunt quas odio",
-                "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+                "id": 2,
+                "title": "Nota 2",
+                "body": "Nota para teste 2."
             }
         ]
     },

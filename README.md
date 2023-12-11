@@ -5,4 +5,6 @@ Projeto realizado seguindo passo a passo em [The Codeholic Channel on Youtube](h
 ![Alt text](image.png)
 
 ## Como rodar?
- ...
+
+- npm install
+- npm run dev
